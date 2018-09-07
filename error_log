@@ -1,0 +1,17 @@
+[06-Nov-2017 17:56:53 UTC] PHP Warning:  include_once(connection/connection.php): failed to open stream: No such file or directory in /home/a5ques/public_html/aashna/function.php on line 2
+[06-Nov-2017 17:56:53 UTC] PHP Warning:  include_once(): Failed opening 'connection/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/a5ques/public_html/aashna/function.php on line 2
+[06-Nov-2017 17:56:53 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:56:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:56:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:56:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a5ques/public_html/aashna/function.php on line 62
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  include_once(connection/connection.php): failed to open stream: No such file or directory in /home/a5ques/public_html/aashna/function.php on line 2
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  include_once(): Failed opening 'connection/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/a5ques/public_html/aashna/function.php on line 2
+[06-Nov-2017 17:57:02 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/a5ques/public_html/aashna/function.php on line 25
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/a5ques/public_html/aashna/function.php on line 25
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/a5ques/public_html/aashna/function.php on line 25
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a5ques/public_html/aashna/function.php on line 26
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a5ques/public_html/aashna/function.php:33) in /home/a5ques/public_html/aashna/function.php on line 34
+[06-Nov-2017 17:57:02 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/a5ques/public_html/aashna/function.php on line 61
+[06-Nov-2017 17:57:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/a5ques/public_html/aashna/function.php on line 62
